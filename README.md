@@ -2,7 +2,8 @@
 #  LaserCamTracker
 
 LaserTracker is a Python-based system for real-time laser point tracking using computer vision techniques and servo control. It detects and tracks a laser point within a video feed, adjusting the position of a camera mounted on servo motors to keep the laser centered on a detected circular reference point.
-![WhatsApp Image 2024-04-26 at 11 42 46 PM](https://github.com/visha20213044/LaserCamTracker/assets/97392436/145d4440-e278-44ac-a787-a52580701399)
+![WhatsApp Image 2024-04-26 at 11 42 46 PM](https://github.com/visha20213044/LaserCamTracker/assets/97392436/d6792eba-d9f8-4b6c-ba9b-31133ccfaed5)
+
 
 
 
