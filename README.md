@@ -37,10 +37,10 @@ https://github.com/visha20213044/LaserCamTracker/assets/97392436/1b1dae40-e424-4
 
 - Point the laser at the camera and observe how the system tracks the laser point by adjusting the pan and tilt angles.
 ## Contributor
-1)Vishal Yadav
-2)Pushpendra Verma
-3)Sandeep Yadav
-4)Shobhit Singh
+- Vishal Yadav
+- Pushpendra Verma
+- Sandeep Yadav
+- Shobhit Singh
 
 
 
