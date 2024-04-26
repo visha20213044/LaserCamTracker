@@ -36,9 +36,12 @@ https://github.com/visha20213044/LaserCamTracker/assets/97392436/1b1dae40-e424-4
 - Run the Python script (Opencv_code.py) to start the tracking system:python Opencv_code.py
 
 - Point the laser at the camera and observe how the system tracks the laser point by adjusting the pan and tilt angles.
-## Contributing
+## Contributor
+1)Vishal Yadav
+2)Pushpendra Verma
+3)Sandeep Yadav
+4)Shobhit Singh
 
-Contributions are welcome! Fork the repository, make enhancements, and submit pull requests.
 
-Feel free to use this modified description for your LaserTracker project. Let me know if you need further assistance!
+
 
